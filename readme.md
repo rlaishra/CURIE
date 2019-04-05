@@ -1,6 +1,6 @@
-# CURIE: Curie: A method for protecting SVM Classifier from Poisoning Attack
+# Curie: A method for protecting SVM Classifier from Poisoning Attack
 
-Paper: [Curie A method for protecting SVM Classifier from Poisoning Attack](http://rickylaishram.com/research/curie16.html)
+For more detail about the method refer to [Curie A method for protecting SVM Classifier from Poisoning Attack](http://rickylaishram.com/research/curie16.html)
 
 ## Requirements
 The required libraries are in `requirements.txt`.
