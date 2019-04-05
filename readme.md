@@ -1,4 +1,4 @@
-# Souce Code For CURIE: Curie: A method for protecting SVM Classifier from Poisoning Attack
+# CURIE: Curie: A method for protecting SVM Classifier from Poisoning Attack
 
 Paper: [Curie A method for protecting SVM Classifier from Poisoning Attack](http://rickylaishram.com/research/curie16.html)
 
