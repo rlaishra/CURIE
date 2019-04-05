@@ -1,3 +1,10 @@
+"""
+Source code for CURIE: A method for protecting SVM Classifier from Poisoning Attack
+http://rickylaishram.com/research/curie16.html
+
+@author: Ricky Laishram (rlaishra@syr.edu)
+"""
+
 import random
 import csv
 import data
